@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34eb2535045d1342bcc05910c3b453fcbfd96e632e9f46ba01a71a0607af2b2d
-size 52
+Back when I was 15, I made a poor game called "Banana Run" using Delphi. That was my first game ever,and even being bad, it ocuppies a place in my heart. That's why I dicided to remake it from scratch as my first Unity Project.
